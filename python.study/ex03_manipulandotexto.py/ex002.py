@@ -1,0 +1,6 @@
+nome = input("digite um nome: ")
+ma = nome.upper()
+mi = nome.lower()
+le = len(nome)
+ql = len(nome[:])
+print("o nome em maiúscula é {} , o nome em minusculo {}, tem {} letra, e o primeiro nome tem {} letras ".format(ma,mi,le,ql))

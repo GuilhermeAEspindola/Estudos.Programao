@@ -1,0 +1,5 @@
+a = int(input("dígite um número: "))
+#d = (a * 2)
+#t = (a * 3)
+#r = a ** (1/2)
+print("o dobro é {} o triplo {} e a raíz quadrada é {:.1f}".format((a * 2),(a * 3),(a **(1/2))))
