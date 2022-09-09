@@ -8,7 +8,7 @@ public class ex01 {
 		//usado para emcontrar o maior valor
 		System.out.println(Math.max(a, b));
 		//usado para encontrar menor numero
-		System.out.println(Max.min(a,b));
+		System.out.println(Math.min(a,b));
 		//raiz quadrada
 		System.out.println(Math.sqrt(a));
 		//absoluto positivo
@@ -16,14 +16,14 @@ public class ex01 {
 		//numero aleatorio
 		System.out.println(Math.random());
 		
-		System.out.println(Math.random() * 10)+1;
+		System.out.println((Math.random() * 10)+1);
 		
-		int numero = (int)(Math.random() * 10)+1;
+		int numero = (int)(Math.random() * 10) + 1;
 		System.out.println(numero);
 		
 		System.out.println(Math.PI);
 		
-		short pi = (short) Math.PI;
+		short PI = (short) Math.PI;
           
 	}
 
