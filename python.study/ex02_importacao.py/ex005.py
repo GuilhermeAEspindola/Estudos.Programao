@@ -1,4 +1,3 @@
-from glob import escape
 from random import choice
 a1 = input("dígite o nome do primeiro aluno: ")
 a2 = input("dígite o nome do segundo aluno: ")

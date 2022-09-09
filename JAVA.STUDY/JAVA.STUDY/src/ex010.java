@@ -1,4 +1,4 @@
-public class ex06 {
+public class ex010 {
     public static void main(String[] args) {
         String resposta = "sim";
         switch(resposta) {

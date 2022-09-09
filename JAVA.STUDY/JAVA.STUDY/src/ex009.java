@@ -1,4 +1,4 @@
-public class ex04 {
+public class ex009 {
     public static void main(String[] args) {
         int idade =(int) (Math.random() * 96 )+ 1;
 

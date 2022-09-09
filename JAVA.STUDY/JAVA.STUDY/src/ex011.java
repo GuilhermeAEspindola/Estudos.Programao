@@ -1,4 +1,4 @@
-public class ex05 {
+public class ex011{
     public static void main(String[] args) {
         int diadasemana = (int) (Math.random() * 7) + 1;
 

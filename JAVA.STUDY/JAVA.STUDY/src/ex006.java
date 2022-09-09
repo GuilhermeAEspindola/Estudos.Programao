@@ -1,5 +1,4 @@
-public class ex01 {
-
+public class ex006 {
 	public static void main(String[] args) {
 		int a = 55;
 		int b = 77;
@@ -23,7 +22,7 @@ public class ex01 {
 		
 		System.out.println(Math.PI);
 		
-		short PI = (short) Math.PI;
+	    short PI = (short) Math.PI;
           
 	}
 

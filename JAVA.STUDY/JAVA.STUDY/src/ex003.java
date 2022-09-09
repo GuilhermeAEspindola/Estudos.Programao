@@ -1,8 +1,4 @@
 import java.util.Scanner;
-
-/**
- * ex003
- */
 public class ex003 {
 
     public static void main(String[] args) {

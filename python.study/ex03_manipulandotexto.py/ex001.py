@@ -1,6 +1,3 @@
-from asyncio.format_helpers import _format_args_and_kwargs
-
-
 frase = "curso em vídeo python"
 print(frase.replace("python", "é bom"))
 print(frase.find("ví"))

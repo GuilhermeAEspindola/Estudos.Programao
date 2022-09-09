@@ -1,4 +1,3 @@
-from glob import glob1
 from random import shuffle
 """sorteio para o trabalho"""
 g1 = input("dígite o nome do primeiro grupo: ")
