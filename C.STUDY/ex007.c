@@ -1,7 +1,7 @@
 # include<stdio.h>
 float converteDolar(float conversao){
 float converteDolar1 = conversao / 5.02;
-   return(converteDolar1);///
+   return(converteDolar1);
 }
 int main()
 {
